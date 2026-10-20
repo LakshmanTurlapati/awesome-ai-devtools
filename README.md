@@ -91,6 +91,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [Shadcn Space MCP](https://shadcnspace.com/mcp) — Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
 - [Blueprint](https://marketplace.visualstudio.com/items?itemName=Imbue.imbue-blueprint) — Open-source planning copilot for coding agents. Asks multiple-choice questions about your task, then generates a markdown plan any coding agent can execute. Extensions for VS Code, Cursor, and Windsurf.
+- [FSB](https://github.com/fullselfbrowsing/FSB) — Open-source browser extension and MCP server that lets Claude Code, Cursor, VS Code, Codex and other MCP clients drive your real Chrome, Edge, Brave or Arc session. Reads pages through DOM and ARIA instead of screenshots, with 69 tools, session replay and multi-agent tab routing. Install with `npx -y fsb-mcp-server@latest`.
 
 ---
 
